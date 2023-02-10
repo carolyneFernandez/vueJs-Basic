@@ -17,3 +17,8 @@ Use for data that depends on other data
 Not used directly in template
 Allow you to run any code in reaction to some changed data(e.g send Http request etc...)
 Use for any non-data update you want to make
+
+<h4>Shortcuts</h4>
+
+v-on:click   = > @click
+v-bind:value => :value
